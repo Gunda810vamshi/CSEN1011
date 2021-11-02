@@ -1,0 +1,5 @@
+ALOGRITM TO CHECK WHETHER NUMBER IS OD OR EVEN
+Step 1:start
+step2:Accept a number
+Step 3:Divide with number 2 If the reminder is 0 it is even else it is false
+Step 4:Stop
