@@ -1,0 +1,9 @@
+Alogrithm:To find number Whether prime or composite.
+step 1:Start.
+Step 2:Accept a positive integer "n" (Number greater than two).
+Step 3:Intialize with counter value with two.
+Step 4:Divide the number with counter value.
+Step 5:If the remainder is zero display that the positive number "n" is composite and stop.
+Step 6:Else Incriment the counter and repeat from step 4 until Counter value is less than "n".
+Step 7:We can say that after completion of all the steps display the number "n" is prime.
+Step 8:Stop
