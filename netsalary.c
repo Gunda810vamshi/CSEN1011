@@ -1,3 +1,20 @@
+/* Alogrithm.
+	Step 1:start
+	step 2:Enter a basic salary
+	step 3:Enter a hra
+	step 4:Enter a ta
+	step 5:Enter others
+	step 6:Calculate da
+	step 7:calculate pf
+	step 8:calculate it
+	step 9:Calculate net salary by formula provided
+	step 10:Stop
+	/*
+
+
+
+
+
 
 #include <stdio.h>
 
@@ -21,3 +38,9 @@ int main()
 	net_salary = basic + da + hra + ta + others - (pf+it);
 	printf("Net Salary is: %d\n",net_salary);
 }
+
+
+/*learnings
+........know to excute a simple programming 
+.........excution of formula based programmings
+/*
