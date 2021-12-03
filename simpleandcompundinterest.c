@@ -6,7 +6,7 @@ step 4:Enter the value Rate of interest(r)
 step 5:Calculate simple interest by using the formlula
 step 6:calculate compound interest by using the formula
 step 7:stop
-/*
+*/
 
 
 
@@ -40,4 +40,4 @@ int main() {
 ........know to excute a simple programming
 .......know to excute a programming which iuncludes formula
 .......know to excute simple and compund interest programming
-/*
+*/
