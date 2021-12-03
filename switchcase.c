@@ -3,7 +3,7 @@ step 1:Start
 step 2:take the value
 step 3:excute now
 step 4:stop
-/*
+*/
 
 
 #include <stdio.h>
@@ -31,4 +31,4 @@ switch(value){
 learnings
 ........know to excute the switch case programming
 .........know the excute the large cases involved programmings by help of switch case method
-/*
+*/
